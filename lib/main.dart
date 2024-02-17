@@ -3,7 +3,7 @@ FIND THE DOCUMENTATION FOR THE PROJECT IN THE README.MD FILE.
  */
 
 import 'repository/together_repository.dart';
-import 'weather/cubit/together_cubit.dart';
+import 'card_list_view/cubit/together_cubit.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
@@ -14,6 +14,7 @@ void main() {
 }
 
 class MyWeatherApp extends StatelessWidget {
+  // Using GeneratedRouting. ( all page routes are defined in different file)
   final AppRoutes appRoutes = AppRoutes();
 
   @override

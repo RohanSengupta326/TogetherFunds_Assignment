@@ -1,4 +1,4 @@
-import 'weather/presentation/screens/home_screen.dart';
+import 'card_list_view/presentation/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 class AppRoutes {

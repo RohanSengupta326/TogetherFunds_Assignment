@@ -1,4 +1,4 @@
-import 'package:assignment/weather/models/together_state_model.dart';
+import '/card_list_view/models/together_state_model.dart';
 
 import '../../cubit/together_cubit.dart';
 import 'package:flutter/foundation.dart';
