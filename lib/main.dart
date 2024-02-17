@@ -1,3 +1,7 @@
+/* 
+FIND THE DOCUMENTATION FOR THE PROJECT IN THE README.MD FILE.
+ */
+
 import 'repository/together_repository.dart';
 import 'weather/cubit/together_cubit.dart';
 import 'package:flutter/material.dart';
