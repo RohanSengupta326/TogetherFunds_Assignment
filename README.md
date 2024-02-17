@@ -1,6 +1,18 @@
 # Documentation
 
-This app uses BloC State Management library, and follows BloC coding architecture(seperate business logic and UI components).
+This app uses the BloC State Management library and follows BloC coding architecture(separate business logic and UI components).
+
+This project contains the following Folder Structure : 
+
+- lib
+  - data
+  - repository
+  - card_list_view
+    - presentation
+      - screens
+      - widgets
+     
+- For All the different features UI of the application different folder structures are created, here only card list view is mainly the functionality so one folder for that is created named card_list_view.
 
 ## Screenshots :
 
