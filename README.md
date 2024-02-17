@@ -22,7 +22,7 @@ bloc: ^8.1.2
 flutter_bloc: ^8.1.3
 equatable: ^2.0.5
 intl: ^0.19.0
-`lazy_load_scrollview: 1.3.0 
+lazy_load_scrollview: 1.3.0 
 ```
 
 
@@ -43,7 +43,7 @@ Tools • Dart 3.2.6 • DevTools 2.28.5
 #### How to install : 
 
 
-- Clone this repository after forking using `git clone https://github.com/<your-username>/Together_Assignment.git`.
-- `cd TogetherAssignment`.
+- Clone this repository after forking using `git clone https://github.com/<your-username>/TogetherFunds_Assignment.git`.
+- `cd TogetherFunds_Assignment`.
 - `flutter pub get` to get all the dependencies.
 - `flutter run` to run the project on connected device / emulator or, run from your IDE.
