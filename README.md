@@ -2,6 +2,8 @@
 
 This app uses BloC State Management library, and follows BloC coding architecture(seperate business logic and UI components).
 
+## Screenshots :
+
 <p>
 <img src="https://github.com/RohanSengupta326/TogetherFunds_Assignment/assets/64458868/9ab89a35-ba22-4014-927f-55201b7ce4f5" alt="Splash View" width="200">
 <img src="https://github.com/RohanSengupta326/TogetherFunds_Assignment/assets/64458868/02205c04-861a-4af4-8e55-da886761c666" alt="Splash View" width="200">
